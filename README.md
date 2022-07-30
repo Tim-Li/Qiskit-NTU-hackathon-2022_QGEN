@@ -3,7 +3,7 @@
 
 ## Existing Issues and Challenges
 
-##　Method design 
+## Method design 
 
 ## Installation
 
