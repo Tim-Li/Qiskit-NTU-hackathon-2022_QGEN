@@ -69,3 +69,8 @@ Notes:
 └── code/
     └── VLSI.ipynb   # main experiment notebook
 ```
+### References
+- Qiskit. Quantum algorithms & applications in python, May 2020. https://github.com/Qiskit/qiskit-aqua Accessed 8-8-18.
+- Barahona, Francisco, et al. “An Application of Combinatorial Optimization to Statistical Physics and Circuit Layout Design.” Operations Research, vol. 36, no. 3, 1988, pp. 493–513., doi:10.1287/opre.36.3.493.
+- Turtletaub, Isaac, et al. “Application of Quantum Machine Learning to VLSI Placement.” Proceedings of the 2020 ACM/IEEE Workshop on Machine Learning for CAD, 2020, doi:10.1145/3380446.3430644.
+- Author Cadence PCB Solutions, et al. “VLSI Technology: Its History and Uses in Modern Technology.” VLSI Technology: Its History and Uses in Modern Technology, 17 Mar. 2022, resources.pcb.cadence.com/blog/2020-vlsi-technology-its-history-and-uses-in-modern-technology#:~:text=VLSI%20refers%20to%20an%20integrated,gates%20or%20transistors%20per%20IC.
